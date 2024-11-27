@@ -1,0 +1,23 @@
+# Cloud
+- EKS is a managed service -> orchestrator like kubernetes [governoor  ]
+- Kubernetes is automation of deployment/scaling/operation of application container
+- VM / Node is an instances of computer [land]
+- Pod is smallest kubernetes object [house]
+  - pod contains containers that share same network, namespace and storage
+- Container is a portable/executable software package [room]
+  - container includes everything needed to run a piece of software [code, runtime, system tools, libraries, and settings] 
+
+# Blue Team
+Kerjaannya
+- Implemen control
+    - enforce MFA, security group unused
+- Security monitoring
+    - SIEM, use cases
+- Incident response
+    - a good action on incident
+- Intrusion detection
+    - FW use cases
+
+# GIAC Security Essentials (GSEC) certification
+- GSEC covers a broad range of foundational cybersecurity topics
+- Purple teaming involves collaboration between offensive and defensive security teams to improve overall security posture
